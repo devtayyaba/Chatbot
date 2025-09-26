@@ -59,3 +59,8 @@ Open `index.html` in your browser and start chatting.
 - EmojiMart
 
 ---
+
+## Acknowledgments
+
+This project was created by following a tutorial from CodingNepal.
+Big thanks to their content for guidance and inspiration
